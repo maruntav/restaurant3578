@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/restaurant3578/static/media/cup-cakes.8d10bc1a.jpg"
   },
   {
-    "revision": "0aece570d510ac550429",
-    "url": "/restaurant3578/static/css/main.7a8aff43.chunk.css"
+    "revision": "ffe63618a73e2d052656",
+    "url": "/restaurant3578/static/css/main.90a28439.chunk.css"
   },
   {
     "revision": "812d879c7f061763bd12778461cbde59",
     "url": "/restaurant3578/static/media/reserve-background.812d879c.jpg"
   },
   {
-    "revision": "3dccf714dfe54159afd9",
-    "url": "/restaurant3578/static/js/1.3dccf714.chunk.js"
+    "revision": "1b339109e8f403c49a10",
+    "url": "/restaurant3578/static/js/1.1b339109.chunk.js"
   },
   {
     "revision": "acb5720e72be9abbe5f5",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/restaurant3578/static/media/three-bowels.eecd73ed.jpg"
   },
   {
-    "revision": "0aece570d510ac550429",
-    "url": "/restaurant3578/static/js/main.0aece570.chunk.js"
+    "revision": "ffe63618a73e2d052656",
+    "url": "/restaurant3578/static/js/main.ffe63618.chunk.js"
   },
   {
     "revision": "888369e57d9bea4c28fee8c9006f06f5",
@@ -52,11 +52,11 @@ self.__precacheManifest = [
     "url": "/restaurant3578/static/media/starter.b67997cd.jpg"
   },
   {
-    "revision": "3dccf714dfe54159afd9",
-    "url": "/restaurant3578/static/css/1.03ab8f6e.chunk.css"
+    "revision": "1b339109e8f403c49a10",
+    "url": "/restaurant3578/static/css/1.dd103f89.chunk.css"
   },
   {
-    "revision": "da7ec04628813f7bf4b6abf875f4dff1",
+    "revision": "ca4dd6956be0397fbbd2e3de787b4159",
     "url": "/restaurant3578/index.html"
   }
 ];
