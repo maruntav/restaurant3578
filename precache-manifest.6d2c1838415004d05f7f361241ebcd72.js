@@ -4,16 +4,16 @@ self.__precacheManifest = [
     "url": "/restaurant3578/static/media/cup-cakes.8d10bc1a.jpg"
   },
   {
-    "revision": "ffe63618a73e2d052656",
-    "url": "/restaurant3578/static/css/main.90a28439.chunk.css"
+    "revision": "6a47a7f7c1664173e288",
+    "url": "/restaurant3578/static/css/main.d5ccbae9.chunk.css"
   },
   {
-    "revision": "812d879c7f061763bd12778461cbde59",
-    "url": "/restaurant3578/static/media/reserve-background.812d879c.jpg"
+    "revision": "b67997cd64fee69d815572e6f6b92574",
+    "url": "/restaurant3578/static/media/starter.b67997cd.jpg"
   },
   {
-    "revision": "1b339109e8f403c49a10",
-    "url": "/restaurant3578/static/js/1.1b339109.chunk.js"
+    "revision": "df31d20518f1bbfceb59",
+    "url": "/restaurant3578/static/js/1.df31d205.chunk.js"
   },
   {
     "revision": "acb5720e72be9abbe5f5",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/restaurant3578/static/media/three-bowels.eecd73ed.jpg"
   },
   {
-    "revision": "ffe63618a73e2d052656",
-    "url": "/restaurant3578/static/js/main.ffe63618.chunk.js"
+    "revision": "6a47a7f7c1664173e288",
+    "url": "/restaurant3578/static/js/main.6a47a7f7.chunk.js"
   },
   {
     "revision": "888369e57d9bea4c28fee8c9006f06f5",
@@ -48,15 +48,11 @@ self.__precacheManifest = [
     "url": "/restaurant3578/static/media/full-menu.d3a5de2c.jpeg"
   },
   {
-    "revision": "b67997cd64fee69d815572e6f6b92574",
-    "url": "/restaurant3578/static/media/starter.b67997cd.jpg"
+    "revision": "df31d20518f1bbfceb59",
+    "url": "/restaurant3578/static/css/1.db581daf.chunk.css"
   },
   {
-    "revision": "1b339109e8f403c49a10",
-    "url": "/restaurant3578/static/css/1.dd103f89.chunk.css"
-  },
-  {
-    "revision": "ca4dd6956be0397fbbd2e3de787b4159",
+    "revision": "72ad33fc4d8f8576a8a245dbf7f1d5c8",
     "url": "/restaurant3578/index.html"
   }
 ];
